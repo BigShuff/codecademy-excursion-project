@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana;
+    font-size: 1rem;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    
+}
+
+
+
+header{
+    font-size: 50px;
+    font-weight: normal;
+    color: #fff;
+ 
+}
+
+.downloadLink{
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.midHeader{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.subMidHeader{
+    font-size: 21px;
+    color: grey;
+}
+
+.mobileImg{
+    margin-top: 20px;
+}
+
